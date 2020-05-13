@@ -18,3 +18,6 @@
 ```javascript
 console.log('hello')
 ```
+我的网站是 [度娘](http://baidu.com)
+
+![一张图片](1.png)
